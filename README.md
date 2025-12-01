@@ -221,3 +221,16 @@ You can reuse these examples in tutorials and on GitHub. Add a license file if y
 If you'd like, I can:
 - turn the commented example functions in `file.py` into an uncommented registry and provide a complete `python file.py run <name>` runner, or
 - create a short CONTRIBUTING.md with pull request guidelines and a checklist for adding examples.
+
+### ❤️ Support This Project
+
+If this tutorial helped you:
+
+⭐ **Give it a Star** on GitHub  
+👤 **Follow** for more Python examples  
+🔁 **Share** it with your friends!
+
+---
+
+**Author:** *W3Schools + Adapted & Explained by Rezvan Panah*  
+📅 **Updated:** November 2025
