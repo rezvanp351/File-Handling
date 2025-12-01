@@ -232,5 +232,5 @@ If this tutorial helped you:
 
 ---
 
-**Author:** *W3Schools + Adapted & Explained by Rezvan Panah*  
+**Author:** *Rezvan Panah*  
 📅 **Updated:** November 2025
